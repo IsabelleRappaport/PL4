@@ -9,4 +9,4 @@ O projeto visa criar um ambiente de aprendizado dinâmico e adaptativo, permitin
 * Sistema de cadastro e login;
 * Implementação de chatbots;
 * Sistema de segurança;
-* Uso da IA para a elaboração de provas personalizadas.
+* Uso da IA para a elaboração de provas e questionários personalizados.
