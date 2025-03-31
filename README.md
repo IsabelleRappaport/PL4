@@ -1,4 +1,4 @@
-# [StudyShare]  
+# [Estudos Online]  
 
 ## Objetivo   
 O projeto tem como objetivo fornecer uma plataforma acessível para estudantes organizarem seus materiais de estudo, acompanharem seu progresso e compartilharem anotações com colegas.  
